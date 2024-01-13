@@ -11,7 +11,9 @@ This repository contains a Python script for processing invoice data and an SQL 
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the Python script using the following command:
-<div style="text-align: center;" markdown="1">python ProcessInvoice.py</div>
+  ~~~
+  python process_invoice.py
+  ~~~
 4. The script will generate a new CSV file called "invoiceinfo.csv" containing processed invoice data.
 
 ## SQL Script
@@ -19,9 +21,11 @@ This repository contains a Python script for processing invoice data and an SQL 
 ### Database Setup
 1. Ensure you have SQLite installed.
 2. Create a new SQLite database file with the command:
-<div style="text-align: center;" markdown="1">drop database if exists newdb;</div>
-<div style="text-align: center;" markdown="1">create database newdb;</div>
-<div style="text-align: center;" markdown="1">use newdb;</div>
+  ~~~
+  drop database if exists newdb;
+  create database newdb;
+  use newdb;
+  ~~~
 
 ### Import CSV Files
 1. Import the generated CSV file ("invoiceinfo.csv") and the employee rates CSV file ("EmployeeRates.csv") into the database using your preferred SQLite client
