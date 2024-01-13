@@ -1,51 +1,47 @@
-Name	RegRate
-John Smith - 001	24.16
-Emily Johnson - 002	27
-Carlos Rodriguez - 003	30.55
-Amanda Davis - 005	24.16
-Brian Miller - 006	24.87
-Sophia Williams - 007	28.42
-Jessica Brown - 008	28.42
-Michael Lee - 009	27
-Eva Martinez - 010	27.71
-Daniel Lopez - 012	27
-Olivia White - 013	27.71
-Christopher Green - 014	27
-Victoria Clark - 019	27
-Sarah Turner - 021	27
-Matthew Adams - 022	27
-Jennifer Martin - 024	22.74
-David Nelson - 025	27
-Alexandra Taylor - 026	27
-Robert Walker - 028	27
-Thomas Turner - 031	27
-Laura Smith - 034	27
-Anthony Harris - 053	27
-Valerie Turner - 035	27
-Vanessa Morris - 036	27
-Richard King - 037	22.74
-Charles Cordero - 038	27
-Angelica Summers - 039	27
-Edward Mitchell - 040	27
-Megan Garcia - 042	25.58
-Joseph Gutierrez - 043	25.58
-Julia Jackson - 044	23.45
-Eric Lawson - 045	24.87
-Antonia Martinez - 046	26.29
-Henry Pineda - 047	27
-Lucas Ramirez - 048	27
-Gabriel Reyes - 049	26.29
-Victoria Vargas - 050	25.58
-Victor Villacorta - 052	28.42
-Natalie Gonzalez - 054	22.74
-Gabriel Reynoso - 055	22.74
-Andrew Rivera - 059	22.74
-Catherine Xicaytol - 061	24.16
-Sophie Bejarno - 063	24.16
-Jonathan Parra - 064	24.16
-Alison Uribe - 065	28.42
-Juliana Ospina - 074	24.87
-Liam Vitores - 077	22.74
-	22.74
-	24.16
-	24.16
+John Smith - 001
+Emily Johnson - 002
+Carlos Rodriguez - 003
+Amanda Davis - 005
+Brian Miller - 006
+Sophia Williams - 007
+Jessica Brown - 008
+Michael Lee - 009
+Eva Martinez - 010
+Daniel Lopez - 012
+Olivia White - 013
+Christopher Green - 014
+Victoria Clark - 019
+Sarah Turner - 021
+Matthew Adams - 022
+Jennifer Martin - 024
+David Nelson - 025
+Alexandra Taylor - 026
+Robert Walker - 028
+Thomas Turner - 031
+Laura Smith - 034
+Anthony Harris - 053
+Valerie Turner - 035
+Vanessa Morris - 036
+Richard King - 037
+Charles Cordero - 038
+Angelica Summers - 039
+Edward Mitchell - 040
+Megan Garcia - 042
+Joseph Gutierrez - 043
+Julia Jackson - 044
+Eric Lawson - 045
+Antonia Martinez - 046
+Henry Pineda - 047
+Lucas Ramirez - 048
+Gabriel Reyes - 049
+Victoria Vargas - 050
+Victor Villacorta - 052
+Natalie Gonzalez - 054
+Gabriel Reynoso - 055
+Andrew Rivera - 059
+Catherine Xicaytol - 061
+Sophie Bejarno - 063
+Jonathan Parra - 064
+Alison Uribe - 065
+Juliana Ospina - 074
+Liam Vitores - 077
