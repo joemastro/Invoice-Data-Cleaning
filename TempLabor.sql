@@ -62,7 +62,7 @@ select LaborEmployee, OTHours from TempLabor where OTHours > 0;
 -- those with less than 40 hours:
 select LaborEmployee, RegHours from TempLabor where RegHours < 40;
 
--- those who made less than $500:
+-- those who made less than $800:
 select LaborEmployee, ((RegHours * RegRate) + (OTHours * OTRate)) as Pay
 from result
 where ((RegHours * RegRate) + (OTHours * OTRate)) < 800;
