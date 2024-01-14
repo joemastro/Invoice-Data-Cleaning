@@ -12,7 +12,7 @@ This repository contains a Python script for processing invoice data and an SQL 
 2. Navigate to the project directory.
 3. Run the Python script using the following command:
   ~~~
-  python process_invoice.py
+  python CleanUp.py
   ~~~
 4. The script will generate a new CSV file called "invoiceinfo.csv" containing processed invoice data.
 
